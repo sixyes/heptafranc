@@ -1,0 +1,4 @@
+qt/qt_libheptafrancqt_a-qrc_heptafranc.o: qt/qrc_heptafranc.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
