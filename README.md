@@ -1,6 +1,6 @@
 UNIX BUILD NOTES
 ====================
-Some notes on how to build HeptaFranc Core in Unix.
+How to build HeptaFranc Core in Unix.
 
 Note
 ---------------------
