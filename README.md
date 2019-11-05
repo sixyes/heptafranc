@@ -46,7 +46,6 @@ Optional dependencies:
  univalue    | Utility          | JSON parsing and encoding (bundled version will be used unless --with-system-univalue passed to configure)
  libzmq3     | ZMQ notification | Optional, allows generating ZMQ notifications (requires ZMQ version >= 4.0.0)
 
-For the versions used, see [dependencies.md](dependencies.md)
 
 Memory Requirements
 --------------------
@@ -77,7 +76,7 @@ Build requirements:
 
     sudo apt-get install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3
 
-Now, you can either build from self-compiled [depends](/depends/README.md) or install the required dependencies:
+Now, you can either build from self-compiled or install the required dependencies:
 
     sudo apt-get install libssl-dev libevent-dev libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev
 
