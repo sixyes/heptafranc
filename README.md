@@ -287,4 +287,3 @@ To build executables for ARM:
     make
 
 
-For further documentation on the depends system see [README.md](../depends/README.md) in the depends directory.
